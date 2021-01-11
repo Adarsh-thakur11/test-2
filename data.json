@@ -7,7 +7,7 @@
       { "id": "7", "type": "Dark Chocolate", "rating": 3.4},
       { "id": "3", "type": "Blueberry", "rating": 5},
       { "id": "4", "type": "Devil's Food", "rating": 6.2},
-      { "id": "9", "type": "Milk Chocolate", "rating", 7},
+      { "id": "9", "type": "Milk Chocolate", "rating": 7},
    ]
 },
   "topping":[
